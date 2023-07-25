@@ -40,7 +40,6 @@ nav ul li a {
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
 .section2 .form-container {
     background-color:rgb(161, 204, 209);
@@ -49,6 +48,9 @@ nav ul li a {
     max-width: 800px;
     border-radius: 10px;
     gap: 20px;
+    margin-top: 250px;
+    padding: 10px 20px;
+
 }
 
 .section2 form {
