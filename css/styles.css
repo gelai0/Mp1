@@ -34,7 +34,7 @@ nav ul li a {
 }
 
 .section2 {
-    background-image: url('../c2.jpg');
+    background-image: url('../auto.jpg');
     background-size: cover;
     height: calc(100vh - 100px);
     display: flex;
@@ -48,7 +48,6 @@ nav ul li a {
     max-width: 800px;
     border-radius: 10px;
     gap: 20px;
-    margin-top: 250px;
     padding: 10px 20px;
 
 }
